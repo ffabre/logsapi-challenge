@@ -13,7 +13,7 @@ The stress test script (`script.js`) can be configured and executed using the fo
     Inside the `script.js` file, you can modify the `TARGET_VUS` variable to set the number of virtual users (VUs) for the test:
 
     ```javascript
-    export let TARGET_VUS = 100; // Modify this value as needed
+    const TARGET_VUS = 100; // Modify this value as needed
     ```
 
 2. **Execute the Stress Test**
