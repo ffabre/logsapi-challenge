@@ -105,7 +105,7 @@ Ensure you have the following installed and configured:
 
 6. **Install Requirements:**
 
-   Install the required Python dependencies (if using CDK with Python):
+   Install the required Python dependencies:
    ```bash
    pip install -r requirements.txt
    ```
