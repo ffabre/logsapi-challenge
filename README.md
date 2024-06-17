@@ -97,7 +97,7 @@ Ensure you have the following installed and configured:
 
 5. **Create and Activate Virtual Environment:**
 
-   Create a virtual environment (if using Python) and activate it:
+   Create a virtual environment and activate it:
    ```bash
    python3 -m venv .env
    source .env/bin/activate
