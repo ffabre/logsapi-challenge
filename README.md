@@ -54,7 +54,7 @@ Ensure you have the following installed on your local machine:
     ```bash
     docker-compose up
     ```
-    This command will start all the services defined in your docker-compose.yml file. If the images are not already built, it will build them first.
+    This command will start all the services required. The API will be available at localhost:8000/
 
 
 ## Deploying the Application to AWS
