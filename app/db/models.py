@@ -19,7 +19,6 @@ async def write_logs(session: AsyncSession, logs: list[LogEntry]):
     
         :param session: The database session to use.
         :param logs: The list of log entries to write.
-        :param commit: Whether to commit the transaction.
         
         :return: None
     """
